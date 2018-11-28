@@ -1,0 +1,17 @@
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/obj/Debug/Assembly-CSharp.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/UnityEngine.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/UnityEditor.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jackferrari/Desktop/Unity/FerrariTestingOutStuff/Temp/bin/Debug/Mono.Cecil.Mdb.dll
